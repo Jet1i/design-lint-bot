@@ -1,0 +1,25 @@
+{
+  "component": "button/primary",
+  "tokens": {
+    "color": {
+      "background": "#0D6EFD",
+      "text": "#FFFFFF",
+      "border": "#0D6EFD",
+      "hoverBackground": "#0B5ED7"
+    },
+    "typography": {
+      "fontFamily": "Inter",
+      "fontSize": 14,
+      "fontWeight": 600,
+      "lineHeight": 20,
+      "letterSpacing": 0
+    },
+    "spacing": {
+      "paddingTop": 8,
+      "paddingRight": 12,
+      "paddingBottom": 8,
+      "paddingLeft": 12,
+      "borderRadius": 6
+    }
+  }
+}

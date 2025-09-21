@@ -1,0 +1,18 @@
+.btn-primary {
+  background-color: #0D6EFD;
+  color: #FFFFFF;
+  border-color: #0D6EFD;
+  font-family: Inter, system-ui, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0px;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+.btn-primary:hover {
+  background-color: #0B5ED7;
+}
+.btn-primary:disabled {
+  opacity: 0.6;
+}

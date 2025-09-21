@@ -1,0 +1,16 @@
+{
+  "color.background": ["background-color"],
+  "color.text": ["color"],
+  "color.border": ["border-color"],
+  "color.hoverBackground": [".:hover.background-color"],
+  "typography.fontFamily": ["font-family"],
+  "typography.fontSize": ["font-size"],
+  "typography.fontWeight": ["font-weight"],
+  "typography.lineHeight": ["line-height"],
+  "typography.letterSpacing": ["letter-spacing"],
+  "spacing.paddingTop": ["padding-top", "padding"],
+  "spacing.paddingRight": ["padding-right", "padding"],
+  "spacing.paddingBottom": ["padding-bottom", "padding"],
+  "spacing.paddingLeft": ["padding-left", "padding"],
+  "spacing.borderRadius": ["border-radius"]
+}

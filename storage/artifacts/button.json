@@ -1,0 +1,115 @@
+{
+  "summary": {
+    "passed": 12,
+    "failed": 2,
+    "warnings": 0,
+    "score": 0.86
+  },
+  "diffs": [
+    {
+      "token": "color.background",
+      "design": "#0D6EFD",
+      "code": "#0D6EFD",
+      "match": true,
+      "severity": null
+    },
+    {
+      "token": "color.text",
+      "design": "#FFFFFF",
+      "code": "#FFF",
+      "match": true,
+      "severity": null
+    },
+    {
+      "token": "color.border",
+      "design": "#0D6EFD",
+      "code": "#0D6EFD",
+      "match": true,
+      "severity": null
+    },
+    {
+      "token": "color.hoverBackground",
+      "design": "#0B5ED7",
+      "code": null,
+      "match": false,
+      "severity": "error"
+    },
+    {
+      "token": "typography.fontFamily",
+      "design": "Inter",
+      "code": "Inter, system-ui, sans-serif",
+      "match": true,
+      "severity": null
+    },
+    {
+      "token": "typography.fontSize",
+      "design": 14,
+      "code": "14px",
+      "match": true,
+      "severity": null
+    },
+    {
+      "token": "typography.fontWeight",
+      "design": 600,
+      "code": "600",
+      "match": false,
+      "severity": "error"
+    },
+    {
+      "token": "typography.lineHeight",
+      "design": 20,
+      "code": "20px",
+      "match": true,
+      "severity": null
+    },
+    {
+      "token": "typography.letterSpacing",
+      "design": 0,
+      "code": "0",
+      "match": true,
+      "severity": null
+    },
+    {
+      "token": "spacing.paddingTop",
+      "design": 8,
+      "code": "8.0px",
+      "match": true,
+      "severity": null
+    },
+    {
+      "token": "spacing.paddingRight",
+      "design": 12,
+      "code": "12.0px",
+      "match": true,
+      "severity": null
+    },
+    {
+      "token": "spacing.paddingBottom",
+      "design": 8,
+      "code": "8.0px",
+      "match": true,
+      "severity": null
+    },
+    {
+      "token": "spacing.paddingLeft",
+      "design": 12,
+      "code": "12.0px",
+      "match": true,
+      "severity": null
+    },
+    {
+      "token": "spacing.borderRadius",
+      "design": 6,
+      "code": "6px",
+      "match": true,
+      "severity": null
+    }
+  ],
+  "component": "button",
+  "artifacts": {
+    "source": "github",
+    "branch": "main",
+    "mainSelector": ".btn-primary"
+  },
+  "generatedAt": "2025-09-18T20:33:44Z"
+}
